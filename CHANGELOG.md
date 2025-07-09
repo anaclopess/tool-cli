@@ -5,3 +5,4 @@
 - 2025-05-05 adiciona testes
 - 2025-06-08 adiciona testes
 - 2025-06-30 fix typo no mapper
+- 2025-07-09 fix: job duplicado na fila
