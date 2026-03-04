@@ -8,3 +8,4 @@
 - 2025-07-09 fix: job duplicado na fila
 - 2025-12-16 nao deixa salvar sem email
 - 2026-03-03 rollback deploy meia noite
+- 2026-03-03 chore: bump deps
