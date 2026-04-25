@@ -9,3 +9,4 @@
 - 2025-12-16 nao deixa salvar sem email
 - 2026-03-03 rollback deploy meia noite
 - 2026-03-03 chore: bump deps
+- 2026-04-24 chore: gitignore .env
