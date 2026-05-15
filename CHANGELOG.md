@@ -10,3 +10,4 @@
 - 2026-03-03 rollback deploy meia noite
 - 2026-03-03 chore: bump deps
 - 2026-04-24 chore: gitignore .env
+- 2026-05-15 remove console.log
