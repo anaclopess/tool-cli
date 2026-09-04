@@ -12,3 +12,4 @@
 - 2026-04-24 chore: gitignore .env
 - 2026-05-15 remove console.log
 - 2026-06-17 extrai helper de dinheiro
+- 2026-09-03 refactor: tira god object
